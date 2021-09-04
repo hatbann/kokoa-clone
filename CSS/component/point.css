@@ -1,0 +1,15 @@
+.point {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  background-color: tomato;
+  display: flex;
+  position: absolute;
+  right: -4px;
+  top: -13px;
+}
+
+.nextto-cot_point {
+  left: 74px;
+  top: -25px;
+}
