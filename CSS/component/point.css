@@ -9,7 +9,11 @@
   top: -13px;
 }
 
-.nextto-cot_point {
+.nextto-findcog_point {
   left: 74px;
+  top: -25px;
+}
+.nextto-morecog_point {
+  left: 123px;
   top: -25px;
 }
